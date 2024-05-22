@@ -1,5 +1,5 @@
 body {
-  font-family: Arial, Helvetica, sans-serif;
+  font-family: Fira sans, Arial;
   margin: 0px;
   color: #141414;
 }
@@ -22,7 +22,7 @@ img {
   height: auto;
   display: block;
 }
-.perfil{
+.perfil {
   border-radius: 500px;
 }
 
@@ -40,5 +40,4 @@ img {
     text-transform: capitalize;
     max-width: initial !important;
   }
-
 }
